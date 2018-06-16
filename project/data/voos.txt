@@ -1,0 +1,9 @@
+Francisco Sá Carneiro;OPO;Porto;Portugal;Europe;9.8;
+1;Airbus A340;Fernão Mendes Pinto;TAP Air Portugal;871;8000;16700;OPO;380;274876;
+2;Airbus A340;D. João de Castro;TAP Air Portugal;871;8000;16700;OPO;380;274876;
+3;Airbus A340;Wenceslau de Moraes;TAP Air Portugal;871;8000;16700;OPO;380;274876;
+4;Airbus A340;D. Francisco de Almeida;TAP Air Portugal;871;8000;16700;OPO;380;274876;
+39;Airbus AV;piloto AV;Air;10;10;10;OPO;10;10;
+Frankfurt;FRA;Frankfurt;Germany;Europe;9.6;
+17;Boeing 777;Jaow Alsalam;Qatar Airways;905;12000;17000;FRA;550;117348;
+23;11;14;2;4;2017;
